@@ -5,7 +5,8 @@ Pasta com projetos da disciplina de Sistemas Distribuidos.
 Github base: [GitHub Teatcher](https://github.com/proflage/teaching).
 
 ## 1. Projeto 1: SD-2017.1-AB2:
-	**Comunicação em  grupo.**
+	
+###	COMUNICAÇÃO EM GRUPO
 
 ### Instruções para acesso à especificação do trabalho
 
@@ -22,7 +23,8 @@ Github base: [GitHub Teatcher](https://github.com/proflage/teaching).
 Instale o [IJulia Notebook](https://github.com/JuliaLang/IJulia.jl) e carregue o `README.ipynb`.
 
 ## 2. Projeto 2: SD-2018.2:
-	**Algoritmo de detecção de Falha + Algoritmo de eleição de líder.**
+
+### ALGORITMO DE DETECÇÃO DE FALHA + ALGORITMO DE ELEIÇÃO DE LÍDER.
 
 ### Instruções para acesso à especificação do trabalho
 
